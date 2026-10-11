@@ -1,0 +1,814 @@
+{
+ "generated_at": "2026-10-08T22:53:45+09:00",
+ "works": [
+  {
+   "work": "アイカツオンパレード！",
+   "versions": [
+    "491001",
+    "491002",
+    "491003",
+    "491004",
+    "491005",
+    "491006",
+    "491701",
+    "491801",
+    "491901"
+   ]
+  },
+  {
+   "work": "アイカツスターズ！",
+   "versions": [
+    "391000",
+    "391001",
+    "391002",
+    "391003",
+    "391004",
+    "391005",
+    "391101",
+    "391102",
+    "391103",
+    "391104",
+    "391105",
+    "391106",
+    "391801",
+    "391901",
+    "391902"
+   ]
+  },
+  {
+   "work": "アイカツフレンズ！",
+   "versions": [
+    "458001",
+    "458002",
+    "458003",
+    "458004",
+    "458005",
+    "458006",
+    "458007",
+    "458008",
+    "458009",
+    "458801",
+    "458901"
+   ]
+  },
+  {
+   "work": "アイカツプラネット！",
+   "versions": [
+    "520001",
+    "520002",
+    "520003",
+    "520004",
+    "520005",
+    "520006",
+    "520007",
+    "520008",
+    "520009",
+    "520901"
+   ]
+  },
+  {
+   "work": "アイカツ！",
+   "versions": [
+    "215001",
+    "215002",
+    "215003",
+    "215004",
+    "215005",
+    "215006",
+    "215007",
+    "215008",
+    "215009",
+    "215010",
+    "215011",
+    "215012",
+    "215013",
+    "215014",
+    "215015",
+    "215016",
+    "215017",
+    "215018",
+    "215019",
+    "215020",
+    "215021",
+    "215022",
+    "215901"
+   ]
+  },
+  {
+   "work": "アイカツ！アンコール",
+   "versions": [
+    "629001",
+    "629901"
+   ]
+  }
+ ],
+ "files": [
+  {
+   "path": "v/215001.json",
+   "kind": "cards",
+   "version_id": "215001",
+   "work": "アイカツ！",
+   "series_title": "第1弾",
+   "count": 52,
+   "hash": "f3f96f33e9ac9468",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215002.json",
+   "kind": "cards",
+   "version_id": "215002",
+   "work": "アイカツ！",
+   "series_title": "第2弾",
+   "count": 64,
+   "hash": "cd99428bfedecf50",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215003.json",
+   "kind": "cards",
+   "version_id": "215003",
+   "work": "アイカツ！",
+   "series_title": "第3弾",
+   "count": 59,
+   "hash": "b60be31fefa889a8",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215004.json",
+   "kind": "cards",
+   "version_id": "215004",
+   "work": "アイカツ！",
+   "series_title": "第4弾",
+   "count": 64,
+   "hash": "2ff44a975bfc5f1e",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215005.json",
+   "kind": "cards",
+   "version_id": "215005",
+   "work": "アイカツ！",
+   "series_title": "第5弾",
+   "count": 62,
+   "hash": "375afafa69c5c37c",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215006.json",
+   "kind": "cards",
+   "version_id": "215006",
+   "work": "アイカツ！",
+   "series_title": "第6弾",
+   "count": 63,
+   "hash": "02896c027b2621e4",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215007.json",
+   "kind": "cards",
+   "version_id": "215007",
+   "work": "アイカツ！",
+   "series_title": "2014シリーズ第1弾",
+   "count": 64,
+   "hash": "661833433c2d3db4",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215008.json",
+   "kind": "cards",
+   "version_id": "215008",
+   "work": "アイカツ！",
+   "series_title": "2014シリーズ第2弾",
+   "count": 64,
+   "hash": "e1e84d446258d7e7",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215009.json",
+   "kind": "cards",
+   "version_id": "215009",
+   "work": "アイカツ！",
+   "series_title": "2014シリーズ第3弾",
+   "count": 64,
+   "hash": "0674b2a0913fe4e5",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215010.json",
+   "kind": "cards",
+   "version_id": "215010",
+   "work": "アイカツ！",
+   "series_title": "2014シリーズ第4弾",
+   "count": 68,
+   "hash": "674559e9ba962340",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215011.json",
+   "kind": "cards",
+   "version_id": "215011",
+   "work": "アイカツ！",
+   "series_title": "2014シリーズ第5弾",
+   "count": 64,
+   "hash": "76cf9699f9e80f03",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215012.json",
+   "kind": "cards",
+   "version_id": "215012",
+   "work": "アイカツ！",
+   "series_title": "2014シリーズ第6弾",
+   "count": 74,
+   "hash": "fbf14973f6c71037",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215013.json",
+   "kind": "cards",
+   "version_id": "215013",
+   "work": "アイカツ！",
+   "series_title": "2015シリーズ第1弾",
+   "count": 73,
+   "hash": "e5f266150095c8b9",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215014.json",
+   "kind": "cards",
+   "version_id": "215014",
+   "work": "アイカツ！",
+   "series_title": "2015シリーズ第2弾",
+   "count": 77,
+   "hash": "00f2ead106d71c91",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215015.json",
+   "kind": "cards",
+   "version_id": "215015",
+   "work": "アイカツ！",
+   "series_title": "2015シリーズ第3弾",
+   "count": 74,
+   "hash": "845b3e433be8e508",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215016.json",
+   "kind": "cards",
+   "version_id": "215016",
+   "work": "アイカツ！",
+   "series_title": "2015シリーズ第4弾",
+   "count": 68,
+   "hash": "48abf2bddbf2534d",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215017.json",
+   "kind": "cards",
+   "version_id": "215017",
+   "work": "アイカツ！",
+   "series_title": "2015シリーズ第5弾",
+   "count": 74,
+   "hash": "abaf925bc9f352b8",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215018.json",
+   "kind": "cards",
+   "version_id": "215018",
+   "work": "アイカツ！",
+   "series_title": "2015シリーズ第6弾",
+   "count": 80,
+   "hash": "2db5a40b92648e6a",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215019.json",
+   "kind": "cards",
+   "version_id": "215019",
+   "work": "アイカツ！",
+   "series_title": "2016シリーズ第1弾",
+   "count": 76,
+   "hash": "20dbd4275bf30c3f",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215020.json",
+   "kind": "cards",
+   "version_id": "215020",
+   "work": "アイカツ！",
+   "series_title": "2016シリーズ第2弾",
+   "count": 73,
+   "hash": "fa3d80774c883401",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215021.json",
+   "kind": "cards",
+   "version_id": "215021",
+   "work": "アイカツ！",
+   "series_title": "2016シリーズ第3弾",
+   "count": 65,
+   "hash": "e6cbc92e14bbff51",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215022.json",
+   "kind": "cards",
+   "version_id": "215022",
+   "work": "アイカツ！",
+   "series_title": "2016シリーズ第4弾",
+   "count": 64,
+   "hash": "05dc93537b567aae",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/215901.json",
+   "kind": "cards",
+   "version_id": "215901",
+   "work": "アイカツ！",
+   "series_title": "プロモーションカード",
+   "count": 1953,
+   "hash": "3a5905c24d5eedc9",
+   "updated_at": "2026-09-21T04:50:58+09:00"
+  },
+  {
+   "path": "v/391000.json",
+   "kind": "cards",
+   "version_id": "391000",
+   "work": "アイカツスターズ！",
+   "series_title": "四ツ星学園ベーシックドレス",
+   "count": 18,
+   "hash": "08611d0bbc2d22b7",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391001.json",
+   "kind": "cards",
+   "version_id": "391001",
+   "work": "アイカツスターズ！",
+   "series_title": "1弾シーズンスプリング",
+   "count": 344,
+   "hash": "59949a0aaea272cf",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391002.json",
+   "kind": "cards",
+   "version_id": "391002",
+   "work": "アイカツスターズ！",
+   "series_title": "2弾シーズンサマー",
+   "count": 344,
+   "hash": "5f239b61d16832d6",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391003.json",
+   "kind": "cards",
+   "version_id": "391003",
+   "work": "アイカツスターズ！",
+   "series_title": "3弾シーズンオータム",
+   "count": 332,
+   "hash": "44b0af45bfe9b494",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391004.json",
+   "kind": "cards",
+   "version_id": "391004",
+   "work": "アイカツスターズ！",
+   "series_title": "4弾シーズンウィンター",
+   "count": 342,
+   "hash": "9ea592aa97a57313",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391005.json",
+   "kind": "cards",
+   "version_id": "391005",
+   "work": "アイカツスターズ！",
+   "series_title": "5弾S4決定戦",
+   "count": 122,
+   "hash": "32eddb5fd432c119",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391101.json",
+   "kind": "cards",
+   "version_id": "391101",
+   "work": "アイカツスターズ！",
+   "series_title": "星のツバサ1弾",
+   "count": 86,
+   "hash": "3f5c0f7154c50c79",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391102.json",
+   "kind": "cards",
+   "version_id": "391102",
+   "work": "アイカツスターズ！",
+   "series_title": "星のツバサ2弾",
+   "count": 94,
+   "hash": "a9f583dd37d35c93",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391103.json",
+   "kind": "cards",
+   "version_id": "391103",
+   "work": "アイカツスターズ！",
+   "series_title": "星のツバサ3弾",
+   "count": 120,
+   "hash": "1cf39a3dc240db56",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391104.json",
+   "kind": "cards",
+   "version_id": "391104",
+   "work": "アイカツスターズ！",
+   "series_title": "星のツバサ4弾",
+   "count": 108,
+   "hash": "f49fb043de4df9b0",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391105.json",
+   "kind": "cards",
+   "version_id": "391105",
+   "work": "アイカツスターズ！",
+   "series_title": "星のツバサ5弾",
+   "count": 95,
+   "hash": "2516c66703bb2776",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391106.json",
+   "kind": "cards",
+   "version_id": "391106",
+   "work": "アイカツスターズ！",
+   "series_title": "星のツバサ6弾",
+   "count": 121,
+   "hash": "7d745d4b9c5a6676",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391801.json",
+   "kind": "cards",
+   "version_id": "391801",
+   "work": "アイカツスターズ！",
+   "series_title": "プロモーション 星のツバサシリーズ",
+   "count": 474,
+   "hash": "2d74e7ab8121a94c",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391901.json",
+   "kind": "cards",
+   "version_id": "391901",
+   "work": "アイカツスターズ！",
+   "series_title": "プロモーション",
+   "count": 521,
+   "hash": "46df5e418293fe24",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/391902.json",
+   "kind": "cards",
+   "version_id": "391902",
+   "work": "アイカツスターズ！",
+   "series_title": "プロモーション色替え",
+   "count": 165,
+   "hash": "b2f61af6df2564d0",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458001.json",
+   "kind": "cards",
+   "version_id": "458001",
+   "work": "アイカツフレンズ！",
+   "series_title": "1弾",
+   "count": 100,
+   "hash": "7280de597fc94136",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458002.json",
+   "kind": "cards",
+   "version_id": "458002",
+   "work": "アイカツフレンズ！",
+   "series_title": "2弾",
+   "count": 118,
+   "hash": "8f9a8270a6f8aef6",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458003.json",
+   "kind": "cards",
+   "version_id": "458003",
+   "work": "アイカツフレンズ！",
+   "series_title": "3弾",
+   "count": 135,
+   "hash": "05ea7e2ca46068de",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458004.json",
+   "kind": "cards",
+   "version_id": "458004",
+   "work": "アイカツフレンズ！",
+   "series_title": "4弾",
+   "count": 112,
+   "hash": "1b180ed007537193",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458005.json",
+   "kind": "cards",
+   "version_id": "458005",
+   "work": "アイカツフレンズ！",
+   "series_title": "5弾",
+   "count": 107,
+   "hash": "2ce005fd5200c232",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458006.json",
+   "kind": "cards",
+   "version_id": "458006",
+   "work": "アイカツフレンズ！",
+   "series_title": "6弾",
+   "count": 99,
+   "hash": "2f2f4c6adf94e52b",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458007.json",
+   "kind": "cards",
+   "version_id": "458007",
+   "work": "アイカツフレンズ！",
+   "series_title": "かがやきのジュエル1弾",
+   "count": 64,
+   "hash": "f33051f4ef9a047c",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458008.json",
+   "kind": "cards",
+   "version_id": "458008",
+   "work": "アイカツフレンズ！",
+   "series_title": "かがやきのジュエル2弾",
+   "count": 84,
+   "hash": "441f2a09243aa08c",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458009.json",
+   "kind": "cards",
+   "version_id": "458009",
+   "work": "アイカツフレンズ！",
+   "series_title": "かがやきのジュエル3弾",
+   "count": 80,
+   "hash": "e6ff9706d657b973",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458801.json",
+   "kind": "cards",
+   "version_id": "458801",
+   "work": "アイカツフレンズ！",
+   "series_title": "フルコーデカード",
+   "count": 27,
+   "hash": "e09c7cf159cac34b",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/458901.json",
+   "kind": "cards",
+   "version_id": "458901",
+   "work": "アイカツフレンズ！",
+   "series_title": "プロモーションカード",
+   "count": 666,
+   "hash": "df3b255385291fd5",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491001.json",
+   "kind": "cards",
+   "version_id": "491001",
+   "work": "アイカツオンパレード！",
+   "series_title": "第1弾",
+   "count": 132,
+   "hash": "86bf3401c06d9cef",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491002.json",
+   "kind": "cards",
+   "version_id": "491002",
+   "work": "アイカツオンパレード！",
+   "series_title": "第2弾",
+   "count": 140,
+   "hash": "d27937e898f65c29",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491003.json",
+   "kind": "cards",
+   "version_id": "491003",
+   "work": "アイカツオンパレード！",
+   "series_title": "第3弾",
+   "count": 151,
+   "hash": "fd482692d267f830",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491004.json",
+   "kind": "cards",
+   "version_id": "491004",
+   "work": "アイカツオンパレード！",
+   "series_title": "ドリームストーリー第1弾",
+   "count": 149,
+   "hash": "bfa581938e69d4ac",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491005.json",
+   "kind": "cards",
+   "version_id": "491005",
+   "work": "アイカツオンパレード！",
+   "series_title": "ドリームストーリー第2弾",
+   "count": 135,
+   "hash": "24664bfd5e84404b",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491006.json",
+   "kind": "cards",
+   "version_id": "491006",
+   "work": "アイカツオンパレード！",
+   "series_title": "ドリームストーリー第3弾",
+   "count": 60,
+   "hash": "cd96b9ab6ee1d03d",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491701.json",
+   "kind": "cards",
+   "version_id": "491701",
+   "work": "アイカツオンパレード！",
+   "series_title": "アイカツ！マシンプロモーションカード",
+   "count": 431,
+   "hash": "33d06368934cdb54",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491801.json",
+   "kind": "cards",
+   "version_id": "491801",
+   "work": "アイカツオンパレード！",
+   "series_title": "フルコーデカード",
+   "count": 34,
+   "hash": "69952383ad495d6f",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/491901.json",
+   "kind": "cards",
+   "version_id": "491901",
+   "work": "アイカツオンパレード！",
+   "series_title": "プロモーションカード",
+   "count": 306,
+   "hash": "58ec9a5cd7e98660",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520001.json",
+   "kind": "cards",
+   "version_id": "520001",
+   "work": "アイカツプラネット！",
+   "series_title": "1弾",
+   "count": 39,
+   "hash": "93b090de882f30ca",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520002.json",
+   "kind": "cards",
+   "version_id": "520002",
+   "work": "アイカツプラネット！",
+   "series_title": "2弾",
+   "count": 35,
+   "hash": "441c7f6ebabe63ca",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520003.json",
+   "kind": "cards",
+   "version_id": "520003",
+   "work": "アイカツプラネット！",
+   "series_title": "3弾",
+   "count": 32,
+   "hash": "7a353b86a02ec928",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520004.json",
+   "kind": "cards",
+   "version_id": "520004",
+   "work": "アイカツプラネット！",
+   "series_title": "4弾",
+   "count": 41,
+   "hash": "085f537facd19f46",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520005.json",
+   "kind": "cards",
+   "version_id": "520005",
+   "work": "アイカツプラネット！",
+   "series_title": "5弾",
+   "count": 43,
+   "hash": "e4604cb3018569e9",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520006.json",
+   "kind": "cards",
+   "version_id": "520006",
+   "work": "アイカツプラネット！",
+   "series_title": "6弾",
+   "count": 45,
+   "hash": "c37711841e8bdb98",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520007.json",
+   "kind": "cards",
+   "version_id": "520007",
+   "work": "アイカツプラネット！",
+   "series_title": "ユニットステージ1弾",
+   "count": 39,
+   "hash": "d3698d2e38b6e644",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520008.json",
+   "kind": "cards",
+   "version_id": "520008",
+   "work": "アイカツプラネット！",
+   "series_title": "ユニットステージ2弾",
+   "count": 40,
+   "hash": "a02a3b8529e90dd9",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520009.json",
+   "kind": "cards",
+   "version_id": "520009",
+   "work": "アイカツプラネット！",
+   "series_title": "ユニットステージ3弾",
+   "count": 37,
+   "hash": "2017de9686aab60f",
+   "updated_at": "2026-09-21T04:46:05+09:00"
+  },
+  {
+   "path": "v/520901.json",
+   "kind": "cards",
+   "version_id": "520901",
+   "work": "アイカツプラネット！",
+   "series_title": "プロモーション",
+   "count": 93,
+   "hash": "ded871de37985bcf",
+   "updated_at": "2026-09-21T04:55:56+09:00"
+  },
+  {
+   "path": "v/629001.json",
+   "kind": "cards",
+   "version_id": "629001",
+   "work": "アイカツ！アンコール",
+   "series_title": "1弾",
+   "count": 97,
+   "hash": "34ef8c7672e9aa88",
+   "updated_at": "2026-10-08T22:53:45+09:00"
+  },
+  {
+   "path": "v/629901.json",
+   "kind": "cards",
+   "version_id": "629901",
+   "work": "アイカツ！アンコール",
+   "series_title": "プロモーションカード",
+   "count": 28,
+   "hash": "f797aeaf6e6e3830",
+   "updated_at": "2026-10-08T22:53:45+09:00"
+  },
+  {
+   "path": "coords.json",
+   "kind": "coords",
+   "count": 41,
+   "hash": "d35788322c267b35",
+   "updated_at": "2026-10-08T22:53:45+09:00"
+  }
+ ]
+}

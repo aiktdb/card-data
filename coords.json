@@ -1,0 +1,288 @@
+{
+ "count": 41,
+ "coords": [
+  {
+   "coord_id": "C-02e4af",
+   "tops": "パープルステージトップス",
+   "bottoms": "パープルステージスカート",
+   "shoes": "パープルステージニーハイパンプス",
+   "source": "back:E1-60 back:E1-61 back:E1-62"
+  },
+  {
+   "coord_id": "C-04054c",
+   "tops": "イエローブロッサムトップス",
+   "bottoms": "イエローブロッサムスカート",
+   "shoes": "イエローブロッサムブーツ",
+   "source": "back:E1-83 back:E1-84 back:E1-85"
+  },
+  {
+   "coord_id": "C-102467",
+   "tops_bottoms": "スターライト学園ピンクジャージ",
+   "shoes": "スターライト学園スニーカー",
+   "source": "back:EP-011 back:EP-015"
+  },
+  {
+   "coord_id": "C-137c33",
+   "tops": "ブルーステージブラウス",
+   "bottoms": "ブルーステージスカート",
+   "shoes": "ブルーステージブーツ",
+   "source": "back:E1-41 back:E1-42 back:E1-43"
+  },
+  {
+   "coord_id": "C-2030e5",
+   "tops": "ピンクステージベスト",
+   "bottoms": "ピンクステージスカート",
+   "shoes": "ピンクステージシューズ",
+   "source": "back:E1-21 back:E1-22 back:E1-23"
+  },
+  {
+   "coord_id": "C-29fc2f",
+   "tops": "オーロラキスキャミソール",
+   "bottoms": "オーロラキスドレープスカート",
+   "shoes": "オーロラキスバレエシューズ",
+   "accessory": "オーロラキスリボン",
+   "source": "back:E1-01 back:E1-02 back:E1-03 back:E1-04"
+  },
+  {
+   "coord_id": "C-2a92ec",
+   "tops_bottoms": "小花柄イエローワンピ",
+   "shoes": "イエロー編み上げブーツ",
+   "source": "back:E1-09"
+  },
+  {
+   "coord_id": "C-343ddc",
+   "tops": "ガーリーデビルトップス",
+   "bottoms": "ガーリーデビルスカート",
+   "shoes": "ガーリーデビルパンプス",
+   "source": "back:EP-031 back:EP-032 back:EP-033"
+  },
+  {
+   "coord_id": "C-3489ab",
+   "tops_bottoms": "スターライト学園制服",
+   "shoes": "スターライト学園ブーツ",
+   "source": "back:EP-029 back:EP-030"
+  },
+  {
+   "coord_id": "C-3519b1",
+   "tops_bottoms": "アゲハレッドコクーンワンピ",
+   "shoes": "アゲハレッドミュール",
+   "source": "back:E1-53 back:E1-54"
+  },
+  {
+   "coord_id": "C-3ef2ca",
+   "tops_bottoms": "スターライト学園オレンジジャージ",
+   "shoes": "スターライト学園スニーカー",
+   "source": "back:EP-014"
+  },
+  {
+   "coord_id": "C-425257",
+   "tops": "パフスリーブレモンカラーボレロ",
+   "bottoms": "ラベンダーフリルスカート",
+   "shoes": "イエロー編み上げブーツ",
+   "source": "back:E1-24 back:E1-25 back:E1-26"
+  },
+  {
+   "coord_id": "C-450729",
+   "tops_bottoms": "スターライト学園パープルジャージ",
+   "shoes": "スターライト学園スニーカー",
+   "source": "back:EP-013"
+  },
+  {
+   "coord_id": "C-4f9dca",
+   "tops": "モンスターキャットトップス",
+   "bottoms": "モンスターキャットスカート",
+   "shoes": "モンスターキャットファーブーツ",
+   "source": "back:EP-034 back:EP-035 back:EP-036"
+  },
+  {
+   "coord_id": "C-520400",
+   "tops": "ブラックモダンボレロ",
+   "bottoms": "ブラックフューチャーエナメルショートパンツ",
+   "shoes": "ブラックフューチャーブーツ",
+   "source": "back:E1-38 back:E1-39 back:E1-40"
+  },
+  {
+   "coord_id": "C-589ef1",
+   "tops": "ブラックストライプジャケット",
+   "bottoms": "ダイヤモンドチェックスカート",
+   "shoes": "ブルーストラップシューズ",
+   "source": "back:E1-44 back:E1-45 back:E1-46"
+  },
+  {
+   "coord_id": "C-5ee588",
+   "tops": "チャーミーリボントップス",
+   "bottoms": "チャーミーリボンスカート",
+   "shoes": "チャーミーリボンサンダル",
+   "accessory": "チャーミーリボンアクセ",
+   "source": "back:E1-13 back:E1-14 back:E1-15 back:E1-16"
+  },
+  {
+   "coord_id": "C-6439ec",
+   "tops_bottoms": "レジェンダリールージュドレス",
+   "shoes": "レジェンダリールージュパンプス",
+   "accessory": "レジェンダリールージュティアラ",
+   "source": "back:E1-51 back:E1-52 back:EP-002"
+  },
+  {
+   "coord_id": "C-73fd54",
+   "tops": "ピンクリボンつきフリルシャツ",
+   "bottoms": "ピンクギャザーフレアスカート",
+   "shoes": "折り返しピンクショートブーツ",
+   "source": "back:EP-006"
+  },
+  {
+   "coord_id": "C-7f5509",
+   "tops": "サンセットスターウェイトップス",
+   "bottoms": "サンセットスターウェイスカート",
+   "shoes": "サンセットスターウェイシューズ",
+   "accessory": "サンセットスターウェイカチューシャ",
+   "source": "back:E1-79 back:E1-80 back:E1-81 back:E1-82"
+  },
+  {
+   "coord_id": "C-87ac86",
+   "tops_bottoms": "エメラルドコクーンワンピ",
+   "shoes": "エメラルドアゲハミュール",
+   "accessory": "ピンクシフォンカチューシャ",
+   "source": "back:EP-003 back:EP-004 back:EP-005"
+  },
+  {
+   "coord_id": "C-8bea14",
+   "tops": "プッチがらシャイニングトップス",
+   "bottoms": "ブラックウォッシュデニムミニ",
+   "shoes": "サイハイレザーブーツ",
+   "source": "back:E1-63 back:E1-64 back:E1-67"
+  },
+  {
+   "coord_id": "C-9024c9",
+   "tops": "天の川コズミックワンショルダー",
+   "bottoms": "天の川コズミックスカート",
+   "shoes": "天の川コズミックブーツ",
+   "accessory": "天の川コズミックカチューシャ",
+   "source": "back:E1-33 back:E1-34 back:E1-35 back:E1-36"
+  },
+  {
+   "coord_id": "C-93a947",
+   "tops": "ドリーミースタートップス",
+   "bottoms": "ドリーミースタースカート",
+   "shoes": "ドリーミースターパンプス",
+   "source": "back:E1-10 back:E1-11 back:E1-12"
+  },
+  {
+   "coord_id": "C-b2525c",
+   "tops": "サンシャインスターウェイトップス",
+   "bottoms": "サンシャインスターウェイスカート",
+   "shoes": "サンシャインスターウェイシューズ",
+   "accessory": "サンシャインスターウェイカチューシャ",
+   "source": "back:E1-71 back:E1-72 back:E1-73 back:E1-74"
+  },
+  {
+   "coord_id": "C-bf99df",
+   "tops": "ピンクアーガイルカーデ",
+   "bottoms": "ピンクプリーツスカート",
+   "shoes": "ガーリーローファー",
+   "accessory": "ピンクリボンカチューシャ",
+   "source": "back:EP-007 back:EP-008 back:EP-009 back:EP-010"
+  },
+  {
+   "coord_id": "C-c152f4",
+   "tops": "パープルブロッサムトップス",
+   "bottoms": "パープルブロッサムスカート",
+   "shoes": "パープルブロッサムブーツ",
+   "source": "back:E1-68 back:E1-69 back:E1-70"
+  },
+  {
+   "coord_id": "C-c69afc",
+   "tops_bottoms": "プリズムサイバーグラフィックワンピ",
+   "shoes": "ブラックフューチャーブーツ",
+   "source": "back:E1-37"
+  },
+  {
+   "coord_id": "C-c77312",
+   "tops_bottoms": "ブラックダイヤモンドジュエリーワンピ",
+   "shoes": "ゴールドチェーングラディエーター",
+   "source": "back:EP-016"
+  },
+  {
+   "coord_id": "C-cab632",
+   "tops": "ピンクブロッサムトップス",
+   "bottoms": "ピンクブロッサムスカート",
+   "shoes": "ピンクブロッサムブーツ",
+   "source": "back:E1-27 back:E1-28 back:E1-29"
+  },
+  {
+   "coord_id": "C-cfb389",
+   "full": "オデットスワン",
+   "source": "back:E1-30"
+  },
+  {
+   "coord_id": "C-d01ae7",
+   "tops": "アイスブルーフリルキャミソール",
+   "bottoms": "アイスブルーフリルパニエ",
+   "shoes": "アイスブルーシューズ",
+   "accessory": "ジュエルつきパープルリボン",
+   "source": "back:E1-05 back:E1-06 back:E1-07 back:E1-08"
+  },
+  {
+   "coord_id": "C-d2efb9",
+   "tops": "クリアネスイエロートップス",
+   "bottoms": "クリアネスイエロースカート",
+   "shoes": "クリアネスイエローパンプス",
+   "accessory": "クリアネスイエローアクセ",
+   "source": "back:E1-17 back:E1-18 back:E1-19 back:E1-20"
+  },
+  {
+   "coord_id": "C-d95ae4",
+   "tops": "アゲハロゴフリルトップス",
+   "bottoms": "アゲハファーつきスカート",
+   "shoes": "アゲハレッドミュール",
+   "accessory": "ブラックシフォンカチューシャ",
+   "source": "back:E1-57 back:E1-58 back:E1-59"
+  },
+  {
+   "coord_id": "C-dab070",
+   "tops_bottoms": "パープルジュエリーワンピ",
+   "shoes": "ゴールドチェーングラディエーター",
+   "source": "back:E1-55 back:E1-56"
+  },
+  {
+   "coord_id": "C-deabaa",
+   "tops_bottoms": "スターライト学園ブルージャージ",
+   "shoes": "スターライト学園スニーカー",
+   "source": "back:EP-012"
+  },
+  {
+   "coord_id": "C-e485cf",
+   "tops": "ネイビーブロッサムトップス",
+   "bottoms": "ネイビーブロッサムスカート",
+   "shoes": "ネイビーブロッサムブーツ",
+   "source": "back:E1-47 back:E1-48 back:E1-49"
+  },
+  {
+   "coord_id": "C-ebdd74",
+   "tops": "セクシーロゴチューブトップ",
+   "bottoms": "ベルトつきレザースカート",
+   "shoes": "サイハイレザーブーツ",
+   "source": "back:E1-65 back:E1-66"
+  },
+  {
+   "coord_id": "C-f2d54c",
+   "tops_bottoms": "ピンクステージベスト＆スカート",
+   "shoes": "ピンクステージシューズ",
+   "source": "back:EP-001"
+  },
+  {
+   "coord_id": "C-fa7a39",
+   "tops_bottoms": "ピンクの小花柄ワンピ",
+   "shoes": "編み上げラベンダーブーツ",
+   "source": "back:EP-017 back:EP-018"
+  },
+  {
+   "coord_id": "C-fded2a",
+   "tops": "サンライズスターウェイトップス",
+   "bottoms": "サンライズスターウェイスカート",
+   "shoes": "サンライズスターウェイシューズ",
+   "accessory": "サンライズスターウェイカチューシャ",
+   "source": "back:E1-75 back:E1-76 back:E1-77 back:E1-78"
+  }
+ ]
+}
