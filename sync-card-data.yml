@@ -1,0 +1,41 @@
+name: Sync card data
+
+on:
+  schedule:
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: sync-card-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync
+        id: sync
+        env:
+          SOURCE_REPO: ${{ secrets.SOURCE_REPO }}
+        run: |
+          if [ -z "$SOURCE_REPO" ]; then
+            exit 1
+          fi
+          bash .github/scripts/sync.sh
+
+      - name: Push
+        if: steps.sync.outputs.changed == '1'
+        run: git push -q origin HEAD:${{ github.ref_name }}
+
+      - name: Request Pages build
+        if: steps.sync.outputs.changed == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" >/dev/null || echo "check Pages"
