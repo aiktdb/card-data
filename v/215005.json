@@ -824,7 +824,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "リズミカルトップス",
    "appeal_point": 900,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP01.png",
    "lucky_star": 2
   },
@@ -839,7 +839,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "リズミカルトップス",
    "appeal_point": 900,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP02.png",
    "lucky_star": 2
   },
@@ -854,7 +854,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "リズミカルトップス",
    "appeal_point": 900,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP03.png",
    "lucky_star": 2
   },
@@ -869,7 +869,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "ダンシングシューズ",
    "appeal_point": 450,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP04.png",
    "lucky_star": 1
   },
@@ -883,7 +883,7 @@
    "brand": "ノーブランド",
    "effect": "【スペシャルアピールボーナス】チームスペシャルアピールが強くなるよ！",
    "appeal_point": 300,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP05.png"
   },
   {
@@ -897,7 +897,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "リズミカルトップス",
    "appeal_point": 900,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP06.png",
    "lucky_star": 2
   },
@@ -912,7 +912,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "リズミカルトップス",
    "appeal_point": 900,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP07.png",
    "lucky_star": 2
   },
@@ -927,7 +927,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "リズミカルトップス",
    "appeal_point": 900,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP08.png",
    "lucky_star": 2
   },
@@ -942,7 +942,7 @@
    "brand": "ノーブランド",
    "dress_appeal": "ダンシングシューズ",
    "appeal_point": 450,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP09.png",
    "lucky_star": 1
   },
@@ -956,7 +956,7 @@
    "brand": "ノーブランド",
    "effect": "【スペシャルアピールボーナス】チームスペシャルアピールが強くなるよ！",
    "appeal_point": 300,
-   "idol": "その他",
+   "idol": "-",
    "image_card": "https://card.aikatsu.net/cardlist/images/cardlist/cardimg/05-CP10.png"
   }
  ]
